@@ -31,3 +31,5 @@ This tool, developed by M0NEGASQUE, is a tool that makes it very easy to locate 
 Enter only the targeted ip address, and you get the information very quickly
 
 API utilisés : https://ip-api.com/
+
+Discord : M0NEGASQUE#4711
